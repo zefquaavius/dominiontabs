@@ -1562,6 +1562,18 @@
   ]
  }, 
  {
+  "cardset": “promo”, 
+  "cost": “5”, 
+  "description": “Gain an Action card costing up to 4 Coin. Set it aside. If you do, then at the start of your next turn, play it.”, 
+  "extra": " You can only buy this once per turn. If a card is gained directly to somewhere other than the discard pile - such as Nomad Camp's special case, or a Silver gained with Mine - then things that want to move the card have not yet lost track of it. Using Summon on Nomad Camp lets you set aside the Nomad Camp, provided there's no when-gain trigger that messes this up for you (such as Watchtower).
+ ", 
+  "name": “Summon”, 
+  "potcost": 0, 
+  "types": [
+   "Event"
+  ]
+ }, 
+ {
   "cardset": "base", 
   "cost": "0", 
   "description": "Worth 1 Coin.", 
